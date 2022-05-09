@@ -1,0 +1,253 @@
+#Titulo-Economia{
+    background-color: #00fc1d;
+    color: white;
+    text-align: center; 
+}
+.Noticia{
+    text-align: justify;
+}
+.imagem{
+    width: 250px;
+    height: 250px;
+    margin-right: 10px; 
+    margin-bottom: 20px;
+    float: left;
+}
+.legenda{
+    position: absolute;
+    margin-top: 250px;
+    font-size: 13px;
+    color: #a6a6a6;
+    float: left;
+}
+.negrito{
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#botao1{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #00fc1d;
+    padding: 8px;
+    border-radius: 7px;
+    float: right;
+}
+#borda-economia{
+    border: dotted #00fc1d;
+    padding: 0px 20px 40px 20px;
+
+}
+#Titulo-Esporte{
+    background-color: #ff8800;
+    color: white;
+    text-align: center; 
+}
+#botao2{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #ff8800;
+    color: white;
+    padding: 8px;
+    border-radius: 7px;
+    float: right;
+}
+#borda-esporte{
+    border: dotted #ff8800;
+    padding: 0px 20px 40px 20px; 
+    margin-top: 10px;
+}
+.imagem-estranha{
+    width:490px;
+    height: 310px;
+    margin-right: 1000px; 
+    margin-bottom: 20px;
+    float: left;
+    display: block;
+}
+#Titulo-Entreterimento{
+    background-color: #ff0000;
+    color: white;
+    text-align: center;
+}
+#borda-entreterimento{
+    border: dotted #ff0000;
+    padding: 0px 20px 40px 20px; 
+    margin-top: 10px
+}
+#botao3{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: #ff0000;
+    color: white;
+    padding: 8px;
+    border-radius: 7px;
+    float: right;
+}
+.legenda-estranha{
+    position: absolute;
+    margin-top: 310px;
+    font-size: 13px;
+    color: #a6a6a6;
+    float: left;
+}
+.imagen-estranha{
+    width: 350px;
+    height: 210px;
+    margin-right: 10px; 
+    margin-bottom: 20px;
+    display: block;
+    margin: auto;  
+}
+.imagin-estranha{
+    width: 350px;
+    height: 210px;
+    margin-left: 430px; 
+    margin-bottom: 20px;
+    display: block;
+
+}
+.negrito-estranho{
+    margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#botao4{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#3b3333;
+    padding: 8px;
+    border-radius: 7px;
+    float: right;
+}
+#Titulo-Notícias{
+    background-color:#3b3333;
+    color: white;
+    text-align: center;
+}
+#borda-Notícias{
+    border: dotted #3b3333;
+    padding: 0px 20px 40px 20px; 
+    margin-top: 10px
+}
+#borda-alien{
+    border: dotted #abf2ff;
+    padding: 0px 20px 40px 20px; 
+    margin-top: 10px
+}
+#Titulo-alien{
+     background-color:#abf2ff;
+    color: white;
+    text-align: center;
+}
+#botao5{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#abf2ff;
+    padding: 8px;
+    border-radius: 7px;
+    float: right;
+}
+nav{
+    padding: 100px;
+    background-color: #000000;
+    margin-bottom: 10px;
+}
+#economia{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#00fc1d;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    margin-left: 110px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#Esporte{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#ff8800;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#entreterimento{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#ff0000;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#noticia{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#3b3333;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#alien{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color:#abf2ff;
+    padding: 8px;
+    border-radius: 7px;
+    margin-right: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.verde{
+    color: #21a330;
+}
+.vermelho{
+    color: #a01a16;
+}
+.laranja{
+    color: #c47603;
+}
+.azul{
+    color: #29c8e4;
+}
+.preto{
+    color: #000000;
+}
+h1{
+    color: antiquewhite;
+    text-align: center;
+}
+#economia:hover{
+    background-color: #134b19;
+}
+#entreterimento:hover{
+    background-color: #5c110e;
+}
+#Esporte:hover{
+    background-color: #724400;
+}
+#alien:hover{
+    background-color: #18616e;
+}
+#noticia:hover{
+    background-color: #272020;
+}
+#botao1:hover{
+    background-color: #21a330;
+}
+#botao2:hover{
+    background-color: #c47603;
+}
+#botao3:hover{
+    background-color: #a01a16;
+}
+#botao4:hover{
+    background-color: black;
+}
+#botao5:hover{
+    background-color: #18616e;
+}
