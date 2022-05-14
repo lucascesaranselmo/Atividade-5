@@ -151,6 +151,7 @@
     border-radius: 7px;
     float: right;
 }
+/* Desta forma ficou mais facil de fazer o menu e os botões em geral.*/
 nav{
     padding: 100px;
     background-color: #000000;
@@ -163,8 +164,9 @@ nav{
     padding: 8px;
     border-radius: 7px;
     margin-right: 10px;
-    margin-left: 110px;
+    margin-left: 70px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
 }
 #Esporte{
     text-decoration: none;
@@ -174,6 +176,7 @@ nav{
     border-radius: 7px;
     margin-right: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
 }
 #entreterimento{
     text-decoration: none;
@@ -183,6 +186,7 @@ nav{
     border-radius: 7px;
     margin-right: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
 }
 #noticia{
     text-decoration: none;
@@ -192,6 +196,7 @@ nav{
     border-radius: 7px;
     margin-right: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
 }
 #alien{
     text-decoration: none;
@@ -201,21 +206,27 @@ nav{
     border-radius: 7px;
     margin-right: 10px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    cursor: pointer;
 }
 .verde{
     color: #21a330;
+    cursor: pointer;
 }
 .vermelho{
     color: #a01a16;
+    cursor: pointer;
 }
 .laranja{
     color: #c47603;
+    cursor: pointer;
 }
 .azul{
     color: #29c8e4;
+    cursor: pointer;
 }
 .preto{
     color: #000000;
+    cursor: pointer;
 }
 h1{
     color: antiquewhite;
@@ -223,31 +234,40 @@ h1{
 }
 #economia:hover{
     background-color: #134b19;
+    cursor: pointer;
 }
 #entreterimento:hover{
     background-color: #5c110e;
+    cursor: pointer;
 }
 #Esporte:hover{
     background-color: #724400;
+    cursor: pointer;
 }
 #alien:hover{
     background-color: #18616e;
+    cursor: pointer;
 }
 #noticia:hover{
     background-color: #272020;
+    cursor: pointer;
 }
 #botao1:hover{
     background-color: #21a330;
 }
 #botao2:hover{
     background-color: #c47603;
+    cursor: pointer;
 }
 #botao3:hover{
     background-color: #a01a16;
+    cursor: pointer;
 }
 #botao4:hover{
     background-color: black;
+    cursor: pointer;
 }
 #botao5:hover{
     background-color: #18616e;
+    cursor: pointer;
 }
